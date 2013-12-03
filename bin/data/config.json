@@ -1,0 +1,22 @@
+[
+	{
+		"id" : "words",
+		"url" : "data/words.json"
+	},
+	{
+		"id" : "assets",
+		"url" : "assets/assets.swf"
+	},
+	{
+		"id" : "sound_click",
+		"url" : "sounds/click.mp3"
+	},
+	{
+		"id" : "sound_lose",
+		"url" : "sounds/lose.mp3"
+	},
+	{
+		"id" : "sound_win",
+		"url" : "sounds/win.mp3"
+	}
+]
